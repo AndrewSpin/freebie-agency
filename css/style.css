@@ -204,7 +204,7 @@ li.active > hr {
     border-radius: 31px;
 }
 .latest-works{
-    padding: 164px 16px;
+    padding: 164px 16px 0 16px;
 }
 .latest-works-title{
    margin-top: 57px;
@@ -276,4 +276,8 @@ li.active > hr {
     text-decoration-color:  #4CAF50;
     text-decoration-width: 2px;
 }
-
+.the-team{
+    background: #FBFBFB;
+    padding-top: 129px;
+    padding-bottom: 167px;
+}
