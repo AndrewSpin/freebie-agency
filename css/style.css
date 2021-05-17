@@ -303,4 +303,13 @@ li.active > hr {
     color: #252525;
     text-transform: uppercase;
 }
-
+.the-team-quote{
+    text-align: center;
+    padding-top: 117px;
+}
+.the-team-quote p{
+    font-size: 14px;
+    line-height: 31px;
+    letter-spacing: 0.8px;
+    color: #373737;
+}
